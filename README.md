@@ -1,6 +1,6 @@
 # AIUB-CMS
 
-This showcases a classroom management Windows Form Application which makes it easier for faculty to take attendance. The program features the usual student, faculty and course management system, with all the related CRUD operations. Additionally, we have implemented an appointment booking system which makes it easier for students and faculty to schedule consulting hours.
+A classroom management Windows Form Application which makes it easier for faculty to take attendance. The program features the usual student, faculty and course management system, with all the related CRUD operations. Additionally, we have implemented an appointment booking system which makes it easier for students and faculty to schedule consulting hours.
 
 ## Built With
 
@@ -12,7 +12,7 @@ This showcases a classroom management Windows Form Application which makes it ea
 ## Co-Contributors
 
 * **Sinthia Ahmed** - sinabila001@gmail.com
-* **Tajbiul Ahmed** - colddk1997@gmail.com
+* **Saqibur Rahman** - colddk1997@gmail.com
 * **Md. Muminur Rahman** - muminur.rahman016@gmail.com
 
 ## License
